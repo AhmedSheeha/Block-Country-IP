@@ -1,0 +1,46 @@
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\appsettings.json
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Block Country IP.staticwebassets.endpoints.json
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Block Country IP.exe
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Block Country IP.deps.json
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Block Country IP.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Block Country IP.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Block Country IP.pdb
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Country IP.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Country IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Country IP.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Country IP.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Country IP.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Country IP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Country IP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\scopedcss\bundle\Block Country IP.styles.css
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\staticwebassets\msbuild.Block Country IP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\staticwebassets\msbuild.Block Country IP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\staticwebassets\msbuild.build.Block Country IP.props
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Block Country IP.props
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Block Country IP.props
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Co.6FC74181.Up2Date
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Country IP.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\refint\Block Country IP.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Country IP.pdb
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\Block Country IP.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\obj\Debug\net8.0\ref\Block Country IP.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ahmed\OneDrive\Documents\Backend Development\Block Country IP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

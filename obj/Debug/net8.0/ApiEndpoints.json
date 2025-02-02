@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "Block_Country_IP.Controllers.CountryController",
+    "Method": "BlockCountry",
+    "RelativePath": "api/countries/{countryCode}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "countryCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Block_Country_IP.Controllers.CountryController",
+    "Method": "CheckIpBlock",
+    "RelativePath": "api/countries/checkblock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ipAddress",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Block_Country_IP.Controllers.CountryController",
+    "Method": "GetIpInfo",
+    "RelativePath": "api/countries/ipinfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ipAddress",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Block_Country_IP.Controllers.CountryController",
+    "Method": "GetCountriesPage",
+    "RelativePath": "api/countries/page",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Block_Country_IP.Controllers.CountryController",
+    "Method": "BlockTemporarily",
+    "RelativePath": "api/countries/temporary/{countryCode}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "countryCode",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "hours",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Block_Country_IP.Controllers.CountryController",
+    "Method": "UnblockCountry",
+    "RelativePath": "api/countries/Unblock",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "countryCode",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
